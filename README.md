@@ -8,6 +8,8 @@ negative reversals, future-dated records, 31 Mar / 1 Apr financial-year boundari
 All people, partners and site names are invented. English local authority and region names are real.
 
 ## 1. Setup (once per machine)
+
+### Option A: scripts (recommended)
 Requires SQL Server 2019+ (Developer or Express edition is fine) and SSMS.
 
 | Step | Script | Notes |
@@ -22,6 +24,19 @@ CSV conventions: header row; empty field = NULL; `<EMPTY>` = empty string `''` (
 `generate_data.py` (Python 3, fixed seed) can regenerate the same data as a plain INSERT script (`02_insert_data.sql`) if BULK INSERT isn't an option, e.g. no file access on the server.
 
 If BULK INSERT says "Operating system error 5 (Access is denied)", the SQL Server service account can't read the folder: move it to `C:\SQLCourse\data\` or grant read access.
+
+### Option B: no scripts, import the file with the SSMS wizard
+`data/HousingDelivery.xlsx` holds all the data, one sheet per table (8 sheets, about 250k rows).
+The same data is also in `00_setup/data/*.csv`, one file per table.
+
+1. Run `00_setup/01_create_database.sql` first. It creates the empty tables with the correct types and keys, which the lessons rely on.
+2. In SSMS, right-click **HousingDelivery** → **Tasks** → **Import Data…**
+3. Choose **Microsoft Excel** as the source and select `HousingDelivery.xlsx`. If Excel isn't listed, install the free *Microsoft Access Database Engine* or use the CSV files with source **Flat File**.
+4. Destination is **SQL Server Native Client / OLE DB** → `HousingDelivery`. Tick all 8 sheets and map each one to the existing table of the same name.
+5. For **TenureTypes**, click *Edit Mappings* and tick **Enable identity insert**.
+6. Finish, then run `00_setup/03_verify.sql`.
+
+Note: Excel can't tell an empty email apart from a missing one, so the 191 blank (`''`) emails arrive as NULL. One "blank vs NULL" example in Module 3 will show 0 blanks. The script route (Option A) keeps them. In the CSV files blank emails are written as `<EMPTY>`.
 
 ## 2. Course path
 Teach a lesson by running it one example at a time (highlight a query and press F5).
