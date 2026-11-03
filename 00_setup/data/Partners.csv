@@ -1,0 +1,41 @@
+PartnerID,PartnerName,PartnerType,ContactName,City,Region,Phone
+1,Dunmere Homes Ltd,Developer,Fatima Cameron,London,London,+44 7911 704 6912
+2,Brightmoor Housing Association,Registered Provider,,Liverpool,North West,+44 121 325 7359
+3,Thornbury City Council Regeneration,Local Authority,Theo Clarke,Brighton,South East,+44 20 320 5514
+4,Dunmere Builders Ltd,SME Builder,Jason Richards,Derby,East Midlands,
+5,Pennine Estates Ltd,Developer,Bethany Payne,Preston,North West,+44 117 691 3150
+6,Calderbrook Housing Association,Registered Provider,Bethany Elliott,London,London,+44 191 750 5977
+7,Fernhill City Council Regeneration,Local Authority,Scott Stone,Derby,East Midlands,+44 20 646 4010
+8,Fernhill Construction Ltd,SME Builder,Faisal Sutton,Lincoln,East Midlands,+44 7700 334 0525
+9,Lindenmere Developments plc,Developer,Olivia Walker,Sheffield,Yorkshire and The Humber,+44 121 758 7517
+10,Eastgate Homes Group,Registered Provider,Noah Palmer,Bolton,North West,+44 121 470 3593
+11,Eastgate City Council Regeneration,Local Authority,Clare Chapman,Manchester,North West,+44 121 710 1040
+12,Northfold Construction Ltd,SME Builder,Mohammed Fletcher,Ipswich,East of England,+44 7700 796 1876
+13,Stonebridge Developments plc,Developer,Clare Graham,London,London,+44 113 612 2927
+14,Ravenscroft Housing Association,Registered Provider,Richard Murray,Oxford,South East,+44 20 652 8689
+15,Aldwick City Council Regeneration,Local Authority,Joanne Green,Birmingham,West Midlands,+44 7911 187 7962
+16,Calderbrook Build Co,SME Builder,Rosie Mason,London,London,+44 121 316 8835
+17,Greywell Estates Ltd,Developer,Liam Newman,Hull,Yorkshire and The Humber,+44 7911 446 0344
+18,Thornbury Housing Trust,Registered Provider,Abigail Bates,Sheffield,Yorkshire and The Humber,
+19,Calderbrook Borough Council Housing,Local Authority,Megan Ellis,Brighton,South East,+44 20 840 9355
+20,Thornbury Construction Ltd,SME Builder,Victoria Jones,Bradford,Yorkshire and The Humber,
+21,Oakhaven Developments plc,Developer,Sophie Baker,Stoke-on-Trent,West Midlands,+44 7911 162 6596
+22,Lindenmere Housing Association,Registered Provider,Morgan Lee,Sheffield,Yorkshire and The Humber,+44 191 355 1235
+23,Pennine Borough Council Housing,Local Authority,Carl White,Newcastle upon Tyne,North East,+44 191 592 3502
+24,Northfold Builders Ltd,SME Builder,Justin Fox,Manchester,North West,+44 113 533 9105
+25,Quayside Homes Ltd,Developer,Archie Price,Liverpool,North West,
+26,Brightmoor Housing Trust,Registered Provider,Declan Banks,Worcester,West Midlands,
+27,Fernhill Borough Council Housing,Local Authority,Freddie Johnson,Chelmsford,East of England,+44 161 692 9740
+28,Brightmoor Build Co,SME Builder,Patrick Phillips,Bolton,North West,+44 161 785 5147
+29,Hartsfield Developments plc,Developer,Louis Hall,Derby,East Midlands,+44 7700 569 9224
+30,Dunmere Housing Association,Registered Provider,Hamza Burns,Luton,East of England,+44 161 478 4669
+31,Stonebridge City Council Regeneration,Local Authority,Mohammed Ahmed,Chelmsford,East of England,+44 7911 999 2200
+32,Ivybridge Builders Ltd,SME Builder,Neil Chapman,Canterbury,South East,+44 117 308 4325
+33,Ravenscroft Developments plc,Developer,Carl Saunders,Leeds,Yorkshire and The Humber,+44 7700 441 2143
+34,Ivybridge Housing Association,Registered Provider,Sean King,London,London,+44 20 658 0590
+35,Marlowe Borough Council Housing,Local Authority,Ian Hopkins,Birmingham,West Midlands,+44 7700 466 3441
+36,Hartsfield Build Co,SME Builder,Kevin Rose,Carlisle,North West,+44 161 985 2662
+37,Fernhill Developments plc,Developer,Tracy Kaur,Middlesbrough,North East,+44 161 373 2608
+38,Dunmere Homes Group,Registered Provider,Faisal Day,Reading,South East,+44 113 940 3728
+39,Hartsfield Borough Council Housing,Local Authority,Jade Gardner,London,London,+44 113 459 8346
+40,Northfold Build Co,SME Builder,Jade Archer,Swindon,South West,+44 20 694 4349

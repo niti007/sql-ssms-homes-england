@@ -1,0 +1,501 @@
+SiteID,SiteName,TenureTypeID,PartnerID,LocalAuthority,Region,UnitPrice,PlannedHomes,Hectares,IsBrownfield,IsStalled,AcquiredDate
+1,100% Affordable Scheme,1,21,West Northamptonshire,East Midlands,52000.00,196,29.41,1,0,2018-02-19
+2,Plot_7 Infill,1,18,Canterbury,South East,38000.00,579,0.91,0,1,2023-01-28
+3,50% Shared Equity Phase,4,16,Lincoln,East Midlands,41000.00,717,28.72,0,0,2015-03-12
+4,St Mary's Gardens,2,26,Liverpool,North West,47000.00,718,14.83,0,0,2021-03-17
+5,Farmer's Rest Close,1,36,Ipswich,East of England,56000.00,348,21.30,0,0,2017-08-02
+6,Phase_2 Riverside,4,21,Liverpool,North West,44000.00,132,44.65,0,0,2017-02-23
+7,Land Only - Canal Basin,8,18,Bradford,Yorkshire and The Humber,0.00,751,35.50,0,0,2016-02-16
+8,Land Only - Former Depot,8,15,Oxford,South East,0.00,379,11.01,1,0,2018-01-28
+9,Land Only - Mill Lane,7,36,Newcastle upon Tyne,North East,0.00,309,41.94,1,0,2020-07-03
+10,Land Only - Station Yard,9,37,Manchester,North West,0.00,301,28.32,1,0,2015-07-30
+11,Land Only - Gas Holder Site,8,8,Bradford,Yorkshire and The Humber,0.00,76,24.22,1,0,2015-08-08
+12,Land Only - Old Tannery,8,20,Carlisle,North West,0.00,97,59.64,1,0,2021-10-19
+13,Land Only - Hospital Annexe,7,15,Luton,East of England,0.00,545,23.01,0,0,2021-08-07
+14,Land Only - Depot Road,9,37,Exeter,South West,0.00,645,3.90,0,1,2023-07-22
+15,Bluebell Fields Phase 2,5,1,Liverpool,North West,30000.00,428,27.20,0,0,2017-08-06
+16,Old Mill Place Phase 3,8,38,Kingston upon Hull,Yorkshire and The Humber,90000.00,687,48.29,1,0,2017-07-09
+17,Old Mill Gardens Phase 3,3,19,Southwark,London,82500.00,459,7.72,0,0,2018-01-20
+18,Old Mill Heights North,8,17,Stoke-on-Trent,West Midlands,87000.00,36,5.75,0,0,2021-06-14
+19,Granary Reach West,11,34,Norwich,East of England,70000.00,677,26.70,1,0,2019-11-21
+20,Sandbank Meadows Phase 3,2,22,Barnet,London,30500.00,431,41.71,1,0,2024-02-15
+21,Old Mill Meadows Phase 1,8,33,Croydon,London,61500.00,11,39.56,0,0,2017-02-07
+22,"Ashgrove Court, Worcester",8,9,Worcester,West Midlands,80000.00,304,26.46,0,0,2022-01-24
+23,"Gasworks Green North, Cambridge",3,30,Cambridge,East of England,24500.00,130,38.97,1,0,2018-04-10
+24,"Granary Court, Wolverhampton",7,10,Wolverhampton,West Midlands,80500.00,402,11.68,0,0,2016-07-13
+25,"Hillcrest Park, Oxford",7,19,Oxford,South East,10000.00,753,18.12,0,0,2020-06-28
+26,Sandbank Meadows West,9,21,Reading,South East,68000.00,203,58.85,1,0,2024-08-07
+27,Dockside Court,6,10,Brighton and Hove,South East,59000.00,517,57.90,1,0,2018-09-21
+28,"Tannery Park East, Reading",2,10,Reading,South East,93500.00,86,28.33,0,0,2022-10-08
+29,Heron Place,6,32,Nottingham,East Midlands,50500.00,564,2.44,1,0,2025-04-30
+30,Quarry Fields,2,29,Sheffield,Yorkshire and The Humber,22500.00,180,41.73,0,1,2023-12-06
+31,Quarry Quarter North,6,11,Middlesbrough,North East,33000.00,189,5.01,0,0,2017-09-13
+32,Canalside Court,3,1,Worcester,West Midlands,95000.00,486,54.10,0,0,2019-12-15
+33,Ashgrove Village,5,13,Swindon,South West,48500.00,403,51.24,1,0,2019-01-10
+34,"Willowbrook Mews, Chelmsford",5,4,Chelmsford,East of England,82000.00,630,44.79,0,0,2023-09-13
+35,Canalside Place Phase 3,6,9,Milton Keynes,South East,102000.00,653,6.10,0,1,2023-11-05
+36,Dockside Quarter Phase 3,6,12,Worcester,West Midlands,63000.00,215,8.19,0,0,2020-12-14
+37,Foxglove Park,3,22,Wolverhampton,West Midlands,47500.00,127,28.26,1,0,2017-07-13
+38,Orchard Mews,11,1,Canterbury,South East,60500.00,280,32.33,0,0,2022-07-16
+39,Maltings Fields,11,36,Bradford,Yorkshire and The Humber,89000.00,345,54.94,1,1,2024-03-28
+40,Quarry Fields Phase 1,11,8,Wolverhampton,West Midlands,73000.00,109,14.32,0,0,2019-02-28
+41,"Quarry Heights, London",9,7,Greenwich,London,63000.00,511,37.05,0,0,2022-09-28
+42,Canalside Mews East,8,23,West Northamptonshire,East Midlands,92500.00,72,24.07,1,0,2024-07-05
+43,Brickworks Place,11,22,Brighton and Hove,South East,16000.00,259,59.33,0,0,2024-04-21
+44,Brickworks Mews,10,39,Newham,London,28500.00,12,16.85,0,0,2021-01-21
+45,Bluebell Mews Phase 1,2,38,Sheffield,Yorkshire and The Humber,40000.00,341,1.24,1,0,2019-09-21
+46,Sandbank Court,2,29,Chelmsford,East of England,23500.00,525,13.53,0,0,2025-03-11
+47,"Railway Place, Milton Keynes",5,26,Milton Keynes,South East,71000.00,446,41.26,0,0,2015-10-29
+48,Riverside Fields South,10,21,Oxford,South East,80000.00,400,59.68,0,0,2021-10-15
+49,Ashgrove Park,11,28,Birmingham,West Midlands,37500.00,472,53.32,1,0,2019-06-22
+50,Quarry Meadows,6,31,Birmingham,West Midlands,29500.00,78,5.75,1,0,2023-05-08
+51,Harbour Heights,9,8,Newham,London,95500.00,430,21.41,0,0,2024-09-25
+52,Windmill Reach South,5,31,Bristol,South West,29500.00,239,50.88,1,0,2016-04-15
+53,Fairfield Village,4,40,Hackney,London,89500.00,701,38.67,1,0,2024-04-20
+54,Foxglove Works,3,1,Croydon,London,54500.00,195,52.23,0,0,2016-08-04
+55,Dockside Green North,2,24,Croydon,London,30000.00,329,43.38,0,0,2015-12-14
+56,"Edgewater Heights Phase 1, Southampton",3,28,Southampton,South East,94500.00,507,36.54,1,0,2020-09-29
+57,Gasworks Place,2,20,Preston,North West,95000.00,56,13.46,0,1,2017-04-17
+58,"Edgewater Reach Phase 1, Sheffield",3,28,Sheffield,Yorkshire and The Humber,105500.00,189,8.01,0,0,2021-04-07
+59,Railway Park Phase 3,2,26,Oxford,South East,83000.00,736,38.52,1,0,2018-08-23
+60,"Granary Works, Carlisle",8,16,Carlisle,North West,23500.00,456,35.46,0,0,2018-06-24
+61,"Edgewater Quarter East, London",6,13,Newham,London,75000.00,367,21.26,0,0,2016-08-27
+62,Brickworks Quarter,5,5,Sheffield,Yorkshire and The Humber,93500.00,191,57.09,0,0,2021-04-28
+63,Jubilee Park East,11,21,Barnet,London,51000.00,164,26.55,0,0,2023-12-06
+64,"Tannery Fields North, Leeds",6,19,Leeds,Yorkshire and The Humber,57000.00,88,38.79,0,1,2021-08-30
+65,"Union Wharf Rise, Stoke-on-Trent",10,13,Stoke-on-Trent,West Midlands,83000.00,339,36.42,0,0,2020-01-20
+66,Tannery Place Phase 2,2,34,Warrington,North West,66000.00,545,36.71,1,0,2019-05-06
+67,Windmill Gardens,11,22,Derby,East Midlands,18000.00,106,33.61,1,0,2024-07-20
+68,Hillcrest Fields Phase 2,3,26,Hackney,London,49500.00,142,35.82,0,0,2019-03-23
+69,Bluebell Works,3,34,Southwark,London,97500.00,105,38.87,1,0,2019-01-25
+70,"Edgewater Court Phase 2, Sheffield",6,7,Sheffield,Yorkshire and The Humber,47500.00,529,46.32,0,0,2015-06-04
+71,Windmill Village Phase 2,3,40,Hackney,London,108500.00,179,43.35,1,0,2023-01-26
+72,Gasworks Rise,10,16,Bradford,Yorkshire and The Humber,78000.00,326,57.95,0,0,2017-03-05
+73,Railway Rise North,8,11,Lincoln,East Midlands,63500.00,214,48.14,1,0,2022-03-11
+74,Jubilee Fields,9,19,Wolverhampton,West Midlands,25500.00,95,45.86,1,0,2016-08-26
+75,Granary Court,4,4,Brighton and Hove,South East,63000.00,415,30.27,1,0,2019-03-16
+76,Granary Works,2,3,Kingston upon Hull,Yorkshire and The Humber,27500.00,303,55.07,0,0,2023-07-06
+77,"Willowbrook Park Phase 3, London",10,36,Barnet,London,29000.00,754,36.65,1,0,2017-08-31
+78,Quarry Place,4,32,Leeds,Yorkshire and The Humber,24000.00,621,32.30,0,0,2023-01-22
+79,"Windmill Meadows North, Preston",1,6,Preston,North West,95500.00,546,58.49,1,0,2020-09-09
+80,"Willowbrook Village, Milton Keynes",9,24,Milton Keynes,South East,59500.00,269,44.91,1,1,2017-09-14
+81,Edgewater Heights,2,23,Greenwich,London,15500.00,569,20.51,0,0,2022-09-05
+82,Elm Park Rise East,11,3,Stoke-on-Trent,West Midlands,68500.00,310,12.33,0,0,2018-07-16
+83,Granary Green Phase 1,7,19,Swindon,South West,34000.00,375,51.77,1,0,2018-01-24
+84,Ironworks Village,7,22,Warrington,North West,59000.00,201,29.92,0,0,2020-10-27
+85,Old Mill Village,7,19,Leeds,Yorkshire and The Humber,79500.00,338,6.43,1,0,2020-01-01
+86,Cedar Court Phase 1,3,40,Ipswich,East of England,55000.00,455,16.69,0,0,2015-11-04
+87,"Tannery Rise, London",6,10,Barnet,London,13500.00,632,40.78,1,0,2017-08-24
+88,Orchard Heights Phase 2,6,24,Oxford,South East,57000.00,464,45.86,0,0,2019-06-19
+89,Kingsfield Gardens,4,36,Kingston upon Hull,Yorkshire and The Humber,59500.00,130,15.93,1,0,2021-11-11
+90,Kingsfield Quarter,4,29,Bradford,Yorkshire and The Humber,101000.00,99,48.69,0,0,2022-06-28
+91,Union Wharf Reach,9,12,Nottingham,East Midlands,101000.00,380,30.67,1,0,2016-07-22
+92,Maltings Green North,1,9,Bradford,Yorkshire and The Humber,80500.00,636,53.09,1,0,2023-01-15
+93,"Edgewater Village, London",7,5,Hackney,London,50500.00,470,28.11,0,0,2024-04-18
+94,Elm Park Rise,10,8,Canterbury,South East,17000.00,540,9.44,1,0,2022-12-15
+95,Heron Fields East,5,9,York,Yorkshire and The Humber,45000.00,650,18.38,0,0,2016-11-21
+96,Elm Park Place,3,37,Luton,East of England,53000.00,52,49.57,1,1,2022-03-12
+97,Brickworks Rise South,11,35,Oxford,South East,73500.00,306,38.62,1,0,2024-01-20
+98,Old Mill Works North,8,14,Southwark,London,69000.00,358,36.52,1,0,2023-03-27
+99,"Riverside Rise South, Exeter",7,30,Exeter,South West,40500.00,135,16.27,1,1,2018-04-03
+100,Canalside Mews,7,21,Swindon,South West,83500.00,204,45.86,0,0,2020-08-04
+101,"Old Mill Village Phase 2, Reading",1,4,Reading,South East,55000.00,61,17.10,0,0,2022-07-17
+102,Heron Fields Phase 3,1,26,Worcester,West Midlands,107500.00,384,3.00,1,0,2019-01-24
+103,"Tannery Court, Norwich",7,40,Norwich,East of England,89500.00,131,7.98,1,0,2018-10-20
+104,"Brickworks Heights South, Peterborough",3,9,Peterborough,East of England,14500.00,740,20.18,0,0,2021-10-19
+105,Jubilee Heights North,6,20,Southampton,South East,104500.00,617,20.38,0,0,2022-12-12
+106,Maltings Meadows,1,20,Ipswich,East of England,84500.00,752,52.36,0,0,2017-12-23
+107,"Canalside Works North, Swindon",10,40,Swindon,South West,90500.00,399,9.12,0,1,2022-11-09
+108,"Hillcrest Village East, Manchester",8,40,Manchester,North West,74000.00,492,52.41,0,1,2016-07-19
+109,Bluebell Court Phase 3,6,35,Worcester,West Midlands,68500.00,360,32.91,0,0,2022-08-20
+110,"Windmill Court Phase 2, London",5,15,Greenwich,London,48000.00,314,46.34,0,0,2020-06-25
+111,"Jubilee Park, Hull",9,37,Kingston upon Hull,Yorkshire and The Humber,25500.00,702,32.73,0,0,2018-11-14
+112,"Harbour Reach, Plymouth",5,17,Plymouth,South West,66500.00,775,28.90,1,0,2025-06-18
+113,"Kingsfield Heights, Peterborough",3,34,Peterborough,East of England,16000.00,241,38.39,1,0,2023-01-17
+114,Union Wharf Park East,1,31,Coventry,West Midlands,70500.00,676,12.21,0,0,2022-03-30
+115,Vicarage Yard East,11,12,Newcastle upon Tyne,North East,14500.00,437,52.97,1,0,2024-05-18
+116,Jubilee Works,3,1,West Northamptonshire,East Midlands,14500.00,315,34.21,1,0,2018-03-11
+117,Sandbank Park,9,18,Worcester,West Midlands,69500.00,207,48.59,1,0,2022-04-09
+118,Dockside Meadows,1,13,Sheffield,Yorkshire and The Humber,106500.00,189,36.77,0,0,2019-10-18
+119,"Jubilee Yard North, Birmingham",,18,Birmingham,West Midlands,106000.00,347,18.33,0,1,2022-05-01
+120,Tannery Park,1,8,Leicester,East Midlands,49500.00,664,54.99,1,0,2017-06-16
+121,Railway Works,3,36,Bath and North East Somerset,South West,99500.00,492,45.51,0,0,2023-07-18
+122,"Tannery Court Phase 3, York",2,8,York,Yorkshire and The Humber,82000.00,73,49.78,0,0,2021-01-07
+123,Railway Fields,9,6,Warrington,North West,72500.00,532,26.90,1,0,2019-08-29
+124,Railway Place,9,17,Birmingham,West Midlands,60500.00,13,44.82,0,1,2018-11-12
+125,"Jubilee Park North, London",1,12,Hackney,London,62000.00,797,8.39,0,0,2019-09-18
+126,Heron Park,8,35,West Northamptonshire,East Midlands,97000.00,146,39.32,1,0,2021-01-09
+127,Granary Gardens,4,35,Leicester,East Midlands,69000.00,444,32.06,0,0,2018-11-18
+128,Harbour Rise,2,16,Liverpool,North West,12000.00,221,4.32,0,0,2022-07-15
+129,Dockside Gardens Phase 2,4,4,Croydon,London,106500.00,153,30.38,1,0,2023-03-16
+130,"Edgewater Place, Luton",10,34,Luton,East of England,28000.00,236,24.99,1,0,2021-08-20
+131,Bluebell Village Phase 1,11,25,Southampton,South East,92000.00,547,19.33,1,0,2019-03-22
+132,Canalside Mews West,8,4,Carlisle,North West,69000.00,585,24.94,1,0,2019-05-10
+133,Ashgrove Fields,6,35,Sheffield,Yorkshire and The Humber,21500.00,751,49.82,1,0,2021-10-13
+134,Fairfield Rise East,4,14,Norwich,East of England,71000.00,350,18.40,0,0,2017-02-17
+135,Jubilee Yard,8,16,Bristol,South West,60500.00,575,19.50,1,0,2022-04-11
+136,Tannery Park Phase 1,6,31,Derby,East Midlands,102000.00,789,50.43,0,0,2019-08-23
+137,Willowbrook Reach South,3,19,Sunderland,North East,63000.00,166,12.01,1,0,2017-10-03
+138,Edgewater Mews East,5,30,Wolverhampton,West Midlands,72500.00,182,44.05,1,0,2021-02-16
+139,"Harbour Green West, Worcester",11,4,Worcester,West Midlands,95500.00,792,0.68,1,0,2015-10-06
+140,Tannery Court South,4,31,Croydon,London,88500.00,685,29.42,1,0,2015-02-18
+141,Gasworks Gardens East,9,7,Middlesbrough,North East,32500.00,108,31.61,1,0,2017-10-30
+142,Old Mill Meadows,7,15,Oxford,South East,41000.00,317,41.14,0,0,2024-08-16
+143,"Orchard Village North, London",2,11,Croydon,London,11000.00,94,30.14,1,0,2021-05-06
+144,Jubilee Gardens West,9,31,Bristol,South West,82500.00,287,3.08,1,0,2025-01-31
+145,"Elm Park Park, Chelmsford",1,38,Chelmsford,East of England,36500.00,157,45.21,0,0,2015-11-12
+146,Vicarage Mews,4,22,York,Yorkshire and The Humber,79000.00,403,45.41,1,0,2023-02-14
+147,"Harbour Fields West, Bolton",6,40,Bolton,North West,87000.00,619,23.98,0,1,2018-01-24
+148,Canalside Meadows North,8,38,Reading,South East,97000.00,686,22.99,0,0,2017-10-06
+149,Riverside Village,5,25,Croydon,London,104500.00,334,21.83,1,0,2019-12-27
+150,Riverside Fields North,2,27,Derby,East Midlands,75500.00,115,1.87,1,1,2021-09-15
+151,Gasworks Village Phase 1,,16,Reading,South East,81500.00,595,31.41,0,0,2018-01-06
+152,"Old Mill Quarter North, Bradford",3,24,Bradford,Yorkshire and The Humber,19500.00,267,56.67,0,0,2021-11-30
+153,Gasworks Gardens,3,25,Manchester,North West,89000.00,347,26.58,1,0,2022-04-20
+154,"Hillcrest Heights, Plymouth",5,12,Plymouth,South West,50000.00,417,58.13,1,0,2020-07-04
+155,Orchard Reach,6,37,Plymouth,South West,24500.00,214,35.66,0,0,2021-03-03
+156,"Railway Rise East, Durham",4,32,County Durham,North East,62000.00,152,38.11,1,0,2023-01-08
+157,Railway Heights North,2,27,Stoke-on-Trent,West Midlands,98500.00,566,2.49,0,0,2024-02-10
+158,Kingsfield Rise East,2,40,Chelmsford,East of England,92500.00,55,33.92,0,0,2023-06-10
+159,Willowbrook Fields South,2,38,West Northamptonshire,East Midlands,81000.00,714,34.64,1,0,2023-08-30
+160,Riverside Meadows,9,27,Greenwich,London,47500.00,97,7.23,0,0,2018-07-01
+161,Sandbank Meadows North,9,21,Leicester,East Midlands,67500.00,78,18.23,0,0,2024-07-10
+162,Fairfield Quarter,11,12,Nottingham,East Midlands,76000.00,575,9.86,0,0,2017-08-07
+163,Dockside Heights,3,25,Canterbury,South East,64500.00,14,42.37,1,0,2024-01-26
+164,Fairfield Mews Phase 3,2,8,Milton Keynes,South East,68500.00,278,40.34,0,0,2018-07-07
+165,Vicarage Fields West,7,20,Luton,East of England,32000.00,639,35.53,0,0,2017-09-04
+166,Cedar Quarter North,6,25,Sheffield,Yorkshire and The Humber,83500.00,443,11.39,0,0,2022-03-27
+167,Elm Park Court Phase 2,9,40,Plymouth,South West,67500.00,64,51.97,0,0,2017-03-10
+168,Ashgrove Court North,9,32,Milton Keynes,South East,66500.00,181,5.24,1,0,2018-04-11
+169,Gasworks Quarter,9,32,Sunderland,North East,108500.00,572,30.80,0,0,2021-02-02
+170,Granary Rise East,9,28,Oxford,South East,37500.00,114,44.24,0,0,2024-10-23
+171,Maltings Mews,5,16,Bath and North East Somerset,South West,25000.00,224,48.70,0,0,2022-12-21
+172,Windmill Quarter,3,37,Ipswich,East of England,17500.00,369,32.08,0,0,2022-11-23
+173,Heron Green,5,9,York,Yorkshire and The Humber,22000.00,778,47.21,0,0,2024-09-21
+174,Canalside Quarter,3,26,Greenwich,London,107000.00,511,8.79,0,0,2019-03-17
+175,Tannery Works Phase 3,7,21,Birmingham,West Midlands,72000.00,605,0.45,0,0,2023-03-13
+176,Fairfield Green North,2,18,Exeter,South West,73000.00,340,49.75,1,0,2021-05-07
+177,Edgewater Gardens East,11,2,Oxford,South East,68500.00,137,55.79,1,0,2019-10-19
+178,Ironworks Place West,3,6,Bolton,North West,45000.00,680,21.82,1,0,2022-04-11
+179,"Gasworks Works, Preston",11,6,Preston,North West,93500.00,730,5.98,1,1,2021-08-28
+180,Willowbrook Works Phase 1,1,9,Bradford,Yorkshire and The Humber,64000.00,499,4.53,1,0,2016-02-24
+181,"Riverside Place, Warrington",5,37,Warrington,North West,77500.00,18,36.74,1,0,2017-05-22
+182,"Windmill Place Phase 2, London",7,9,Newham,London,22500.00,780,7.65,0,0,2019-10-25
+183,Foxglove Place South,4,39,Sheffield,Yorkshire and The Humber,102000.00,301,46.80,0,0,2022-05-20
+184,"Windmill Green North, Southampton",9,16,Southampton,South East,16500.00,516,23.34,1,0,2015-10-18
+185,Jubilee Meadows West,6,24,Norwich,East of England,63500.00,569,41.07,0,0,2023-08-22
+186,Willowbrook Reach Phase 1,2,33,Carlisle,North West,60500.00,303,37.83,0,0,2022-11-14
+187,"Windmill Quarter Phase 3, Lincoln",9,10,Lincoln,East Midlands,36000.00,559,19.81,0,0,2022-04-15
+188,Cedar Village,5,16,Croydon,London,17000.00,98,55.50,1,0,2015-08-14
+189,"Willowbrook Works Phase 1, Sheffield",2,34,Sheffield,Yorkshire and The Humber,54000.00,539,47.04,0,0,2016-06-03
+190,Edgewater Park West,2,5,Southwark,London,77000.00,279,42.83,0,1,2020-02-08
+191,"Heron Heights Phase 2, Birmingham",8,37,Birmingham,West Midlands,23000.00,700,43.45,1,0,2015-06-30
+192,"Harbour Court Phase 2, Brighton",4,36,Brighton and Hove,South East,14500.00,741,44.52,1,0,2019-09-01
+193,Granary Fields Phase 1,5,12,Exeter,South West,16500.00,238,48.32,0,0,2015-10-10
+194,Hillcrest Fields Phase 1,5,37,Oxford,South East,47000.00,321,44.45,1,0,2020-07-13
+195,Edgewater Rise Phase 1,9,15,Plymouth,South West,13000.00,564,20.98,0,0,2018-10-04
+196,Kingsfield Yard Phase 2,5,10,County Durham,North East,17500.00,738,17.01,1,0,2024-06-25
+197,"Dockside Fields South, Wolverhampton",8,5,Wolverhampton,West Midlands,60000.00,616,34.20,1,0,2017-08-27
+198,Cedar Mews,7,15,Kingston upon Hull,Yorkshire and The Humber,44500.00,86,56.63,1,0,2016-03-22
+199,Railway Meadows South,8,14,Liverpool,North West,108500.00,472,18.71,1,0,2016-10-07
+200,Harbour Yard,10,16,Oxford,South East,21500.00,374,23.96,1,0,2024-03-13
+201,"Heron Court South, Bristol",7,7,Bristol,South West,69000.00,153,7.55,1,0,2017-06-29
+202,"Bluebell Place, Preston",6,17,Preston,North West,85000.00,86,1.60,1,0,2019-12-22
+203,"Kingsfield Gardens, Brighton",6,28,Brighton and Hove,South East,83000.00,751,23.88,1,0,2016-12-08
+204,"Foxglove Court, Leicester",5,40,Leicester,East Midlands,89000.00,261,38.94,0,0,2020-05-16
+205,Riverside Village West,7,35,Warrington,North West,90500.00,29,59.37,0,0,2021-02-08
+206,"Tannery Meadows Phase 2, Oxford",10,15,Oxford,South East,86000.00,40,53.78,0,1,2020-04-16
+207,"Elm Park Fields Phase 2, Luton",4,4,Luton,East of England,104000.00,792,59.78,1,0,2023-12-11
+208,Canalside Heights East,3,2,Leicester,East Midlands,85500.00,730,42.12,0,0,2021-04-25
+209,"Gasworks Quarter Phase 1, Bath",9,15,Bath and North East Somerset,South West,87000.00,30,31.73,1,0,2017-04-05
+210,Jubilee Rise,3,10,Oxford,South East,12500.00,610,42.37,1,0,2020-11-25
+211,Cedar Place Phase 1,6,9,Brighton and Hove,South East,51000.00,171,44.02,1,0,2020-06-18
+212,Cedar Park,9,38,Newham,London,38500.00,189,22.89,0,0,2016-12-28
+213,Harbour Quarter,10,15,Greenwich,London,88000.00,664,34.06,0,0,2023-05-11
+214,"Elm Park Place, Warrington",6,22,Warrington,North West,100500.00,467,0.98,1,0,2018-12-06
+215,Harbour Village North,1,32,Leeds,Yorkshire and The Humber,62500.00,397,21.27,1,0,2023-11-05
+216,Canalside Quarter West,11,2,Canterbury,South East,47500.00,336,15.89,1,0,2024-12-15
+217,Ironworks Fields South,9,2,Nottingham,East Midlands,100000.00,451,56.56,1,0,2016-10-05
+218,Brickworks Village,4,35,Middlesbrough,North East,103000.00,281,39.74,1,1,2019-05-29
+219,"Harbour Meadows Phase 1, Ipswich",3,39,Ipswich,East of England,94500.00,501,12.22,1,0,2018-04-10
+220,Gasworks Rise North,2,6,Bath and North East Somerset,South West,43500.00,667,32.78,1,0,2019-02-22
+221,"Railway Court West, Manchester",5,10,Manchester,North West,17500.00,780,41.88,1,0,2024-01-24
+222,Union Wharf Gardens,4,35,Luton,East of England,63500.00,713,52.05,0,0,2020-05-04
+223,Tannery Heights,1,40,Bradford,Yorkshire and The Humber,96500.00,160,7.48,0,0,2016-11-15
+224,Harbour Village East,3,10,Plymouth,South West,90000.00,619,15.70,0,0,2015-10-02
+225,Union Wharf Meadows,7,40,Carlisle,North West,11500.00,611,31.50,1,0,2016-08-30
+226,Jubilee Fields Phase 1,,23,Luton,East of England,78500.00,430,16.07,0,0,2020-04-21
+227,Riverside Heights,7,26,Middlesbrough,North East,14500.00,349,41.52,1,0,2018-01-05
+228,Granary Rise Phase 3,6,7,Brighton and Hove,South East,99000.00,243,8.32,0,0,2024-04-05
+229,Ashgrove Fields Phase 2,10,32,West Northamptonshire,East Midlands,62000.00,787,31.14,1,1,2023-11-16
+230,Orchard Quarter,9,2,Warrington,North West,82500.00,187,11.81,0,0,2017-10-18
+231,Cedar Yard West,6,8,Newcastle upon Tyne,North East,60500.00,707,2.12,1,0,2016-12-28
+232,Union Wharf Meadows West,10,6,Bath and North East Somerset,South West,105500.00,301,1.94,1,0,2023-09-30
+233,Canalside Place East,11,1,Plymouth,South West,12500.00,495,54.72,0,0,2015-02-04
+234,Cedar Works,5,23,York,Yorkshire and The Humber,58000.00,480,15.34,0,0,2024-03-30
+235,Willowbrook Green,2,36,Hackney,London,57500.00,672,35.75,1,0,2020-05-27
+236,Hillcrest Mews East,11,20,Warrington,North West,93000.00,202,9.25,0,0,2024-01-13
+237,Bluebell Meadows,7,32,Milton Keynes,South East,93500.00,312,15.79,1,0,2015-05-25
+238,Hillcrest Works,4,31,Luton,East of England,91500.00,697,21.70,1,0,2022-05-17
+239,Kingsfield Court Phase 3,5,12,Southampton,South East,81500.00,706,54.01,0,0,2017-07-03
+240,Fairfield Park Phase 3,7,8,Southwark,London,69000.00,491,3.50,0,0,2021-12-17
+241,Kingsfield Mews,9,4,Liverpool,North West,62500.00,164,8.50,1,0,2021-05-21
+242,Hillcrest Mews,3,22,Reading,South East,72000.00,656,59.20,1,1,2020-01-26
+243,Edgewater Quarter West,10,40,Sheffield,Yorkshire and The Humber,26500.00,454,38.12,1,0,2019-04-20
+244,Willowbrook Park West,6,1,Sunderland,North East,12000.00,651,44.10,1,0,2018-07-02
+245,"Vicarage Reach West, Preston",9,30,Preston,North West,47000.00,755,31.36,0,0,2022-09-14
+246,Maltings Rise West,8,15,Exeter,South West,39000.00,754,59.10,1,1,2020-08-28
+247,"Fairfield Gardens East, Warrington",11,40,Warrington,North West,78000.00,59,35.76,1,0,2024-05-17
+248,Railway Village Phase 3,7,14,Newcastle upon Tyne,North East,29500.00,721,41.24,1,0,2016-02-18
+249,Windmill Works West,10,40,Southwark,London,75000.00,130,17.18,0,0,2021-10-30
+250,"Brickworks Meadows, Warrington",9,36,Warrington,North West,15000.00,518,54.65,0,0,2017-08-18
+251,"Granary Heights, Newcastle upon Tyne",2,33,Newcastle upon Tyne,North East,21500.00,86,43.50,1,0,2017-08-04
+252,Railway Gardens Phase 2,5,24,Wolverhampton,West Midlands,47000.00,703,18.97,0,1,2023-07-03
+253,Bluebell Place Phase 3,3,18,Brighton and Hove,South East,89500.00,760,5.85,0,0,2019-06-30
+254,Granary Village,5,11,West Northamptonshire,East Midlands,63500.00,125,8.21,0,0,2024-06-20
+255,"Sandbank Rise North, Preston",10,23,Preston,North West,58500.00,636,2.02,0,0,2024-12-31
+256,"Ironworks Village Phase 1, Preston",2,1,Preston,North West,50000.00,731,52.14,0,0,2023-02-12
+257,Tannery Green,6,16,Chelmsford,East of England,65000.00,503,20.94,0,0,2024-05-29
+258,Willowbrook Place,1,32,Milton Keynes,South East,70000.00,179,4.77,0,0,2018-02-13
+259,"Ashgrove Village Phase 2, Sunderland",9,37,Sunderland,North East,66500.00,468,5.55,0,0,2020-07-30
+260,"Orchard Village South, London",2,39,Croydon,London,21500.00,643,38.36,0,0,2022-05-05
+261,Hillcrest Green,6,24,Southwark,London,101500.00,743,27.32,1,0,2015-01-09
+262,"Tannery Meadows, Derby",9,32,Derby,East Midlands,31000.00,153,49.36,0,0,2017-11-07
+263,Jubilee Mews North,2,22,Cambridge,East of England,34000.00,120,45.50,1,0,2022-07-16
+264,"Bluebell Heights, Ipswich",8,1,Ipswich,East of England,73500.00,553,44.25,0,0,2021-07-24
+265,"Cedar Heights West, Worcester",3,39,Worcester,West Midlands,59500.00,630,53.00,0,0,2021-10-30
+266,Orchard Meadows,5,9,Plymouth,South West,27000.00,432,36.27,0,0,2024-06-15
+267,Ashgrove Yard South,9,23,Southwark,London,97500.00,698,8.22,0,0,2016-12-29
+268,Edgewater Meadows South,2,27,Wolverhampton,West Midlands,95000.00,700,44.95,0,0,2024-07-02
+269,Kingsfield Gardens Phase 1,9,18,Birmingham,West Midlands,35500.00,778,47.20,0,0,2016-08-22
+270,Brickworks Rise Phase 3,5,40,Canterbury,South East,23000.00,701,44.45,0,0,2021-04-17
+271,Cedar Place North,5,21,Lincoln,East Midlands,97500.00,575,3.51,0,0,2024-09-28
+272,Jubilee Place,4,38,Reading,South East,106500.00,569,44.39,1,0,2017-03-03
+273,Old Mill Quarter,11,25,Sheffield,Yorkshire and The Humber,25000.00,51,25.88,0,0,2021-07-20
+274,"Railway Works, Brighton",6,39,Brighton and Hove,South East,51000.00,62,46.49,0,0,2018-05-18
+275,Quarry Green Phase 1,9,22,Worcester,West Midlands,37000.00,349,21.84,1,0,2020-12-12
+276,Willowbrook Fields,11,40,Worcester,West Midlands,92000.00,646,14.86,1,0,2019-04-12
+277,"Foxglove Green, Bristol",7,24,Bristol,South West,76000.00,536,48.23,1,1,2025-01-27
+278,Old Mill Fields West,9,5,Southwark,London,10500.00,225,40.32,0,0,2019-10-04
+279,"Quarry Place, Southampton",9,10,Southampton,South East,97500.00,34,27.72,1,1,2015-08-11
+280,Old Mill Heights,9,25,Warrington,North West,62000.00,471,37.92,1,1,2022-07-20
+281,Dockside Heights East,11,5,Manchester,North West,99500.00,376,55.70,1,0,2018-05-19
+282,"Orchard Village, Peterborough",8,35,Peterborough,East of England,30000.00,235,8.44,1,0,2021-02-13
+283,Bluebell Park,5,24,Sheffield,Yorkshire and The Humber,103000.00,21,33.35,0,0,2015-01-21
+284,Union Wharf Fields East,9,23,Ipswich,East of England,102500.00,226,24.94,0,0,2016-10-21
+285,Brickworks Fields West,5,36,Carlisle,North West,16500.00,482,38.79,1,0,2017-10-23
+286,Sandbank Meadows East,10,19,Bolton,North West,22500.00,644,4.47,1,0,2018-09-06
+287,Riverside Heights West,10,11,Peterborough,East of England,64500.00,14,19.00,0,0,2022-03-09
+288,Bluebell Works North,3,20,Wolverhampton,West Midlands,55500.00,508,33.23,1,0,2024-06-09
+289,Brickworks Reach,9,5,Sheffield,Yorkshire and The Humber,103000.00,29,51.02,0,0,2021-06-29
+290,Jubilee Gardens South,4,31,Lincoln,East Midlands,79000.00,679,46.58,1,0,2023-08-29
+291,Railway Green North,3,16,Peterborough,East of England,11000.00,638,41.14,0,0,2016-10-14
+292,Heron Quarter,11,3,Carlisle,North West,55500.00,234,45.76,1,0,2017-08-16
+293,Jubilee Rise North,9,3,Sunderland,North East,15500.00,674,19.65,0,0,2024-04-21
+294,Union Wharf Heights East,10,5,Kingston upon Hull,Yorkshire and The Humber,85000.00,539,15.32,0,0,2019-07-21
+295,"Fairfield Court, Derby",8,29,Derby,East Midlands,27500.00,179,14.03,0,0,2016-09-07
+296,Cedar Mews Phase 2,10,8,Warrington,North West,52000.00,503,40.61,0,0,2022-04-05
+297,"Harbour Quarter Phase 2, Brighton",4,3,Brighton and Hove,South East,75500.00,596,9.07,1,0,2020-10-17
+298,Ashgrove Gardens,10,6,Swindon,South West,46000.00,231,27.12,0,0,2016-11-29
+299,"Riverside Rise West, Bradford",10,33,Bradford,Yorkshire and The Humber,94000.00,280,10.31,0,0,2021-09-09
+300,Orchard Quarter Phase 2,7,27,Cambridge,East of England,74500.00,163,36.45,1,0,2021-09-22
+301,Sandbank Place South,2,28,Newcastle upon Tyne,North East,10000.00,544,25.41,0,0,2019-10-24
+302,Maltings Heights,7,37,Bradford,Yorkshire and The Humber,99000.00,110,25.70,1,0,2025-03-16
+303,"Ironworks Green Phase 2, Oxford",10,1,Oxford,South East,105000.00,601,31.50,0,0,2017-04-21
+304,Maltings Fields East,7,35,Southwark,London,43000.00,443,34.01,0,0,2019-06-16
+305,Fairfield Green Phase 3,9,17,Barnet,London,71500.00,324,34.79,0,0,2016-07-19
+306,Dockside Yard East,2,14,Canterbury,South East,22500.00,530,24.21,1,0,2022-10-26
+307,Orchard Place Phase 1,3,39,Croydon,London,70000.00,455,5.56,1,0,2021-10-30
+308,Windmill Place East,7,12,County Durham,North East,17000.00,665,29.81,1,0,2025-06-09
+309,Harbour Rise South,4,11,Oxford,South East,88500.00,700,2.45,1,1,2016-10-06
+310,"Maltings Place South, Warrington",7,5,Warrington,North West,11500.00,102,33.11,0,0,2021-07-15
+311,Windmill Yard North,4,12,Derby,East Midlands,43000.00,426,30.52,0,0,2018-10-24
+312,Ironworks Green,5,29,Swindon,South West,98500.00,396,33.92,0,0,2023-09-12
+313,"Heron Gardens Phase 3, Stoke-on-Trent",10,15,Stoke-on-Trent,West Midlands,91000.00,703,42.16,0,0,2018-12-17
+314,Canalside Reach East,5,5,Birmingham,West Midlands,53500.00,577,55.90,0,0,2025-01-11
+315,"Jubilee Park East, Cambridge",11,16,Cambridge,East of England,104000.00,281,12.64,1,0,2021-12-08
+316,Harbour Mews South,2,18,Nottingham,East Midlands,83500.00,512,11.22,0,0,2019-06-18
+317,Harbour Green,3,3,York,Yorkshire and The Humber,79000.00,524,21.03,0,0,2020-02-16
+318,"Hillcrest Works East, Swindon",8,7,Swindon,South West,84000.00,343,21.89,0,0,2017-12-12
+319,"Hillcrest Meadows North, Bradford",10,24,Bradford,Yorkshire and The Humber,99500.00,383,51.30,1,0,2016-06-21
+320,Dockside Reach,2,13,Plymouth,South West,58500.00,159,48.06,0,0,2015-02-09
+321,Ironworks Mews,3,32,Preston,North West,50000.00,317,15.28,0,1,2016-02-10
+322,"Granary Reach East, London",4,22,Croydon,London,105000.00,276,21.85,0,0,2017-11-21
+323,Vicarage Heights,2,19,West Northamptonshire,East Midlands,109500.00,373,19.71,0,0,2020-01-05
+324,"Gasworks Court, Reading",10,22,Reading,South East,31000.00,441,37.99,0,0,2015-10-20
+325,Hillcrest Meadows,4,26,Warrington,North West,87000.00,287,53.30,0,0,2023-05-22
+326,"Elm Park Quarter, Ipswich",7,17,Ipswich,East of England,40000.00,771,42.13,1,0,2016-02-26
+327,Harbour Gardens,9,7,Preston,North West,20500.00,278,37.20,1,0,2019-05-16
+328,Railway Place South,5,3,Sheffield,Yorkshire and The Humber,13500.00,689,21.60,0,0,2020-03-28
+329,Union Wharf Court East,5,39,Swindon,South West,85500.00,477,37.97,0,0,2020-11-14
+330,Jubilee Meadows Phase 2,5,20,Hackney,London,66500.00,384,24.91,1,1,2020-11-13
+331,Gasworks Court East,6,31,Southampton,South East,106500.00,316,0.85,1,0,2017-08-05
+332,Granary Village Phase 1,6,34,Milton Keynes,South East,40500.00,792,48.06,0,0,2018-01-18
+333,"Quarry Yard, York",5,8,York,Yorkshire and The Humber,47000.00,662,27.48,0,0,2020-07-08
+334,"Harbour Green Phase 1, Manchester",3,29,Manchester,North West,26000.00,754,0.79,1,1,2017-06-08
+335,"Maltings Court, Derby",8,10,Derby,East Midlands,20000.00,67,16.21,1,0,2017-01-13
+336,Granary Gardens West,7,29,Warrington,North West,59000.00,263,44.34,1,0,2023-08-24
+337,Sandbank Village,4,11,Bolton,North West,51000.00,654,43.78,0,0,2016-05-15
+338,"Maltings Park East, Hull",4,16,Kingston upon Hull,Yorkshire and The Humber,24000.00,658,26.22,1,0,2021-07-22
+339,"Windmill Quarter Phase 1, Liverpool",1,6,Liverpool,North West,73500.00,712,37.23,0,0,2022-01-04
+340,"Riverside Works Phase 1, Warrington",11,21,Warrington,North West,39500.00,581,47.38,0,0,2019-12-02
+341,Maltings Works Phase 1,7,36,Croydon,London,66000.00,311,32.70,0,0,2021-02-04
+342,Heron Mews West,5,34,West Northamptonshire,East Midlands,18500.00,168,27.13,0,0,2020-02-03
+343,Ironworks Gardens,3,16,County Durham,North East,89000.00,338,43.34,0,0,2019-05-07
+344,Edgewater Green Phase 3,8,21,Bolton,North West,92000.00,123,6.05,0,1,2016-06-15
+345,Kingsfield Court Phase 1,4,32,Manchester,North-West,59500.00,548,37.55,0,1,2017-06-23
+346,Jubilee Park North,1,30,Norwich,East of England,20000.00,664,3.92,0,0,2019-08-31
+347,Granary Heights Phase 1,1,5,Canterbury,South East,48500.00,231,57.65,1,0,2020-12-17
+348,Bluebell Yard Phase 2,9,27,Leicester,East Midlands,81000.00,774,6.60,0,0,2020-02-22
+349,Elm Park Rise North,2,11,Barnet,London,94000.00,556,59.91,1,0,2018-07-14
+350,Quarry Rise,6,39,Peterborough,East of England,51000.00,256,33.92,1,0,2025-05-21
+351,Railway Village Phase 1,8,2,Southwark,London,86000.00,540,8.36,0,1,2017-06-27
+352,Edgewater Mews,1,33,Kingston upon Hull,Yorkshire and The Humber,80500.00,579,34.37,0,1,2020-02-29
+353,"Maltings Park Phase 2, Leicester",5,6,Leicester,East Midlands,48000.00,594,24.17,0,0,2023-02-11
+354,Sandbank Mews,3,39,West Northamptonshire,East Midlands,22000.00,667,18.23,0,0,2015-11-18
+355,"Ironworks Mews West, Oxford",6,15,Oxford,South East,108500.00,775,39.27,0,1,2023-09-20
+356,"Tannery Gardens South, London",5,15,Croydon,London,74000.00,166,3.32,0,0,2019-12-31
+357,Old Mill Yard West,9,22,Hackney,London,26500.00,94,28.71,0,0,2017-12-11
+358,Edgewater Works Phase 2,7,32,Carlisle,North West,35000.00,414,39.24,1,0,2023-04-02
+359,Foxglove Rise East,2,8,Cambridge,East of England,21000.00,697,24.99,1,0,2018-11-12
+360,Elm Park Meadows,5,40,Norwich,East of England,66500.00,159,26.60,0,0,2022-09-08
+361,Dockside Gardens South,2,1,Nottingham,East Midlands,46500.00,361,41.72,1,0,2015-04-04
+362,Brickworks Green Phase 3,4,10,Lincoln,East Midlands,89500.00,721,42.02,1,0,2022-06-10
+363,Harbour Reach East,3,30,Peterborough,East of England,16500.00,680,56.73,1,0,2022-06-08
+364,Heron Fields West,6,15,Canterbury,South East,59000.00,399,30.66,0,0,2020-06-08
+365,Elm Park Yard North,2,2,Milton Keynes,South East,101000.00,50,15.07,0,0,2019-05-31
+366,"Bluebell Meadows Phase 3, London",6,18,Croydon,London,74000.00,73,37.66,0,0,2024-02-20
+367,Canalside Quarter North,5,25,Swindon,South West,21000.00,543,57.65,0,0,2017-07-20
+368,Quarry Reach,3,9,Worcester,West Midlands,79000.00,221,39.25,0,0,2017-04-08
+369,"Jubilee Quarter West, Oxford",9,11,Oxford,South East,82000.00,335,4.35,0,0,2017-01-24
+370,Edgewater Meadows,1,20,Sheffield,Yorkshire and The Humber,62500.00,463,44.81,0,0,2023-04-13
+371,Riverside Quarter South,2,37,Sheffield,Yorkshire and The Humber,87500.00,637,14.09,1,0,2019-01-11
+372,Tannery Mews,3,12,Preston,North West,57500.00,406,29.64,1,0,2015-05-13
+373,Quarry Yard,5,14,Nottingham,East Midlands,106500.00,77,10.87,0,0,2021-12-02
+374,"Ironworks Yard West, Wolverhampton",8,25,Wolverhampton,West Midlands,104000.00,747,18.98,0,0,2021-08-29
+375,Tannery Fields West,1,34,Chelmsford,East of England,41000.00,560,23.92,0,0,2020-10-15
+376,Gasworks Court Phase 3,4,30,Croydon,London,46500.00,180,25.52,0,1,2020-10-18
+377,"Railway Fields, Reading",11,38,Reading,South East,109500.00,722,32.92,1,0,2015-04-13
+378,Ironworks Court Phase 3,4,11,Carlisle,North West,101000.00,745,44.08,1,0,2022-02-10
+379,Dockside Rise,7,25,Lincoln,East Midlands,30000.00,573,23.02,0,0,2021-05-05
+380,"Heron Quarter East, Southampton",3,20,Southampton,South East,49000.00,757,46.19,1,0,2016-04-26
+381,Windmill Rise North,1,35,Southampton,South East,73500.00,15,36.60,0,0,2022-05-25
+382,"Old Mill Heights, Stoke-on-Trent",8,18,Stoke-on-Trent,West Midlands,80000.00,644,37.83,0,0,2017-01-27
+383,"Granary Heights Phase 1, Bolton",6,12,Bolton,North West,63000.00,175,40.42,0,0,2021-09-02
+384,"Railway Works Phase 1, Luton",3,21,Luton,East of England,48000.00,387,53.88,0,0,2024-06-16
+385,"Riverside Fields, Peterborough",8,27,Peterborough,East of England,77000.00,547,12.83,1,1,2021-05-29
+386,Old Mill Court,9,19,Greenwich,London,100000.00,447,36.65,1,0,2021-12-27
+387,Vicarage Court East,10,40,Leicester,East Midlands,33000.00,248,42.60,0,1,2015-04-09
+388,Fairfield Heights,4,23,Birmingham,West Midlands,52500.00,583,48.42,1,0,2022-09-27
+389,"Gasworks Green West, Leeds",5,22,Leeds,Yorkshire and The Humber,97500.00,359,23.94,0,0,2024-05-01
+390,Jubilee Place North,6,9,Warrington,North West,92500.00,503,9.58,0,0,2025-01-17
+391,Granary Green East,1,35,West Northamptonshire,East Midlands,81000.00,29,12.73,0,0,2024-12-16
+392,Foxglove Mews North,3,37,Brighton and Hove,South East,31000.00,630,23.56,0,0,2023-06-06
+393,Foxglove Village Phase 2,1,14,Kingston upon Hull,Yorkshire and The Humber,48500.00,547,18.35,1,0,2023-09-21
+394,Tannery Gardens,8,13,Manchester,North West,29500.00,358,55.44,0,0,2023-09-12
+395,Bluebell Quarter Phase 1,9,34,Nottingham,East Midlands,101000.00,128,0.55,0,0,2021-08-31
+396,Ironworks Gardens West,8,2,Oxford,South East,49500.00,601,45.58,0,0,2017-04-01
+397,"Hillcrest Rise Phase 1, Warrington",9,18,Warrington,North West,30000.00,127,1.21,0,0,2017-04-26
+398,Foxglove Quarter,6,16,Luton,East of England,83000.00,185,4.55,0,0,2019-12-23
+399,"Ironworks Place North, Newcastle upon Tyne",8,26,Newcastle upon Tyne,North East,64500.00,193,42.37,0,0,2022-09-27
+400,Gasworks Meadows,6,35,Hackney,London,95500.00,90,58.43,0,0,2016-06-23
+401,Kingsfield Court East,8,31,Bolton,North West,69500.00,247,56.86,1,0,2017-11-22
+402,"Ironworks Meadows Phase 1, Bath",3,23,Bath and North East Somerset,South West,24000.00,500,27.84,1,0,2021-10-11
+403,"Orchard Mews, Luton",2,5,Luton,East of England,81000.00,319,32.10,1,0,2021-12-18
+404,Orchard Fields West,8,28,Sheffield,Yorkshire and The Humber,65000.00,590,47.30,0,0,2022-06-07
+405,Granary Court South,10,7,Greenwich,London,81000.00,465,10.82,0,1,2016-03-21
+406,"Hillcrest Court, London",7,9,Hackney,London,37500.00,604,54.22,0,1,2016-08-23
+407,Gasworks Village,9,21,Barnet,London,36000.00,316,34.35,0,0,2019-11-16
+408,Vicarage Gardens,2,19,Southwark,London,26000.00,73,22.34,0,1,2022-11-20
+409,"Heron Reach, Peterborough",2,38,Peterborough,East of England,99500.00,413,37.63,0,0,2019-11-18
+410,Sandbank Quarter North,3,27,Chelmsford,East of England,56000.00,167,17.52,0,0,2015-02-17
+411,Dockside Park North,3,6,Manchester,North West,27000.00,150,38.64,1,0,2023-11-06
+412,Elm Park Court South,10,23,Barnet,London,59000.00,241,11.39,0,0,2024-06-30
+413,Foxglove Village,9,3,Greenwich,London,14000.00,591,29.15,1,0,2022-09-29
+414,Heron Rise,9,34,Bolton,North West,20000.00,634,5.58,0,0,2022-07-02
+415,Fairfield Heights Phase 1,9,1,Bolton,North West,78000.00,490,27.41,0,0,2018-09-19
+416,Elm Park Gardens,5,37,Wolverhampton,West Midlands,48500.00,276,3.97,0,0,2015-07-31
+417,Willowbrook Reach Phase 2,10,17,Southwark,London,45500.00,145,37.06,1,0,2023-04-25
+418,Dockside Quarter,10,17,Liverpool,North West,32000.00,727,14.40,1,0,2015-05-16
+419,Windmill Park,3,27,Nottingham,East Midlands,106000.00,798,23.18,0,0,2016-11-16
+420,"Ashgrove Reach, Hull",1,30,Kingston upon Hull,Yorkshire and The Humber,31000.00,418,28.73,0,0,2025-05-06
+421,Cedar Village Phase 2,11,1,Ipswich,East of England,65500.00,305,55.66,1,0,2020-12-11
+422,Jubilee Green,2,40,Croydon,London,65000.00,677,51.54,1,0,2016-02-07
+423,"Railway Rise, York",7,38,York,Yorkshire and The Humber,96000.00,798,11.94,1,0,2017-01-06
+424,"Willowbrook Mews North, Leeds",11,29,Leeds,Yorkshire and The Humber,23000.00,369,13.40,1,0,2015-04-08
+425,"Ashgrove Fields, Norwich",10,9,Norwich,East of England,87000.00,394,39.49,0,0,2017-01-26
+426,Foxglove Reach Phase 1,3,28,Canterbury,South East,45000.00,718,54.23,0,0,2016-10-25
+427,"Orchard Village Phase 1, Oxford",1,12,Oxford,South East,43500.00,461,4.44,0,0,2019-05-28
+428,"Riverside Green, Preston",2,7,Preston,North West,92000.00,462,43.01,1,1,2021-05-29
+429,"Ironworks Court East, London",1,25,Barnet,London,14500.00,282,9.35,1,0,2015-01-16
+430,Quarry Village,8,35,Stoke-on-Trent,West Midlands,18500.00,241,0.50,0,0,2020-05-28
+431,Hillcrest Place Phase 1,6,6,Carlisle,North West,92500.00,384,32.22,0,1,2020-02-26
+432,Brickworks Quarter North,11,25,Southwark,London,48000.00,119,37.95,1,1,2022-02-04
+433,"Harbour Yard South, Coventry",3,5,Coventry,West Midlands,59500.00,563,38.71,0,0,2024-02-08
+434,"Hillcrest Gardens East, Birmingham",1,14,Birmingham,West Midlands,25000.00,679,40.14,0,0,2024-10-20
+435,"Canalside Park East, Chelmsford",10,2,Chelmsford,East of England,93500.00,492,54.46,0,0,2022-04-11
+436,"Harbour Park West, Liverpool",,11,Liverpool,North West,88000.00,615,4.12,0,0,2021-09-03
+437,Fairfield Yard West,2,26,Southampton,South East,104000.00,342,7.51,0,0,2018-08-10
+438,"Vicarage Quarter Phase 1, Southampton",1,27,Southampton,South East,106500.00,182,41.87,0,0,2025-05-19
+439,Fairfield Mews,2,2,Cambridge,East of England,30000.00,508,5.12,1,0,2022-12-04
+440,Cedar Rise,7,14,Southwark,London,26000.00,156,38.50,0,0,2016-12-15
+441,Elm Park Works Phase 1,10,23,Norwich,East of England,48500.00,438,0.57,1,0,2020-12-11
+442,"Railway Rise, Swindon",6,13,Swindon,South West,16500.00,125,47.86,0,0,2020-04-27
+443,"Jubilee Gardens Phase 3, Coventry",11,17,Coventry,West Midlands,65500.00,352,37.12,0,0,2016-03-03
+444,"Elm Park Rise South, London",3,29,Hackney,London,40000.00,616,34.91,1,0,2025-01-27
+445,Canalside Fields North,6,15,Nottingham,East Midlands,58000.00,85,28.42,0,0,2016-08-16
+446,Elm Park Village North,8,23,York,Yorkshire and The Humber,90500.00,286,12.37,1,0,2015-09-02
+447,"Railway Village Phase 3, Leeds",8,39,Leeds,Yorkshire and The Humber,47500.00,170,47.44,0,0,2016-11-27
+448,"Brickworks Heights North, Luton",,28,Luton,East of England,103000.00,763,52.39,1,0,2017-06-29
+449,Jubilee Heights,3,3,Milton Keynes,South East,15500.00,491,44.09,0,0,2019-06-04
+450,"Sandbank Yard West, Birmingham",8,27,Birmingham,West Midlands,103500.00,233,8.22,1,0,2016-01-07
+451,Cedar Court,3,30,Middlesbrough,North East,13000.00,484,46.38,0,0,2023-11-10
+452,"Cedar Place East, Canterbury",8,22,Canterbury,South East,98000.00,553,2.25,1,0,2021-11-13
+453,Ironworks Gardens Phase 3,11,24,Cambridge,East of England,15000.00,385,10.76,0,1,2022-12-15
+454,Canalside Green North,6,38,Southampton,South East,106000.00,729,12.82,0,0,2018-12-15
+455,Quarry Reach Phase 3,11,33,Milton Keynes,South East,72000.00,549,49.82,0,0,2024-04-03
+456,Windmill Meadows,8,13,Peterborough,East of England,18000.00,478,5.51,1,0,2015-11-12
+457,"Cedar Quarter West, Warrington",2,2,Warrington,North West,90000.00,310,25.17,0,0,2020-04-25
+458,Quarry Heights East,11,38,West Northamptonshire,East Midlands,72000.00,691,41.90,0,0,2018-05-30
+459,Fairfield Reach Phase 3,3,4,Peterborough,East of England,108500.00,161,21.38,0,0,2025-05-13
+460,Elm Park Quarter,5,10,Carlisle,North West,95000.00,175,14.50,1,0,2016-06-02
+461,Brickworks Green,3,10,Wolverhampton,West Midlands,54000.00,391,27.07,0,0,2016-05-12
+462,Edgewater Quarter,8,1,Bath and North East Somerset,South West,29500.00,766,32.90,0,0,2018-04-25
+463,Bluebell Quarter,10,22,Wolverhampton,West Midlands,66500.00,715,7.01,0,1,2022-08-09
+464,Orchard Heights,1,21,Peterborough,East of England,21500.00,66,36.61,1,0,2023-10-06
+465,Willowbrook Fields North,4,33,Exeter,South West,21000.00,413,11.91,1,0,2015-08-18
+466,Riverside Works,7,1,Oxford,South East,57500.00,301,20.89,1,0,2021-04-16
+467,"Dockside Village, Bolton",8,28,Bolton,North West,103000.00,756,53.82,1,0,2015-12-19
+468,"Heron Green, Warrington",8,25,Warrington,North West,85500.00,100,0.70,0,0,2016-12-17
+469,Edgewater Park Phase 2,10,36,Chelmsford,East of England,47000.00,512,2.82,0,0,2018-05-29
+470,Willowbrook Rise Phase 3,4,31,Stoke-on-Trent,West Midlands,91500.00,137,39.33,0,0,2020-07-07
+471,Vicarage Village,4,8,Canterbury,South East,70500.00,392,30.90,0,0,2016-10-29
+472,Railway Park,6,18,Cambridge,East of England,16500.00,379,25.34,0,0,2018-04-02
+473,Brickworks Rise,9,11,Leeds,Yorkshire and The Humber,86500.00,566,19.56,1,0,2023-12-21
+474,"Union Wharf Heights Phase 2, Hull",2,19,Kingston upon Hull,Yorkshire and The Humber,76000.00,391,46.79,1,0,2016-10-29
+475,Canalside Mews South,9,35,Liverpool,North West,77000.00,739,33.20,0,0,2020-03-01
+476,Jubilee Gardens Phase 3,3,29,Bristol,South West,27500.00,621,31.53,0,0,2018-06-01
+477,Riverside Mews,4,9,Newcastle upon Tyne,North East,49000.00,224,8.07,1,0,2023-10-17
+478,"Edgewater Village Phase 1, Manchester",8,33,Manchester,North West,94000.00,617,3.84,1,0,2015-09-29
+479,"Fairfield Fields, Leeds",2,12,Leeds,Yorkshire and The Humber,35500.00,696,21.29,1,0,2018-02-10
+480,Elm Park Mews East,6,37,Exeter,South West,74500.00,79,6.22,0,1,2017-06-07
+481,"Ironworks Rise East, London",3,33,Southwark,London,37000.00,734,28.64,0,0,2022-07-21
+482,Orchard Village Phase 2,6,21,Plymouth,South West,107000.00,136,28.11,0,0,2019-01-19
+483,"Old Mill Meadows North, London",1,20,Hackney,London,86500.00,713,58.58,1,0,2018-04-05
+484,Heron Fields,4,24,Bath and North East Somerset,South West,96500.00,193,1.06,0,0,2019-06-12
+485,Riverside Village South,2,11,Birmingham,West Midlands,104500.00,76,22.01,1,0,2024-06-19
+486,"Granary Village, Bristol",4,38,Bristol,South West,101000.00,617,16.60,0,0,2019-06-28
+487,Sandbank Green West,7,17,Lincoln,East Midlands,25500.00,511,29.99,0,0,2016-02-12
+488,Bluebell Gardens,8,21,Croydon,London,96500.00,166,18.37,0,0,2022-05-31
+489,Foxglove Green West,8,3,Barnet,London,12000.00,450,52.84,1,0,2024-07-25
+490,Harbour Quarter West,1,11,West Northamptonshire,East Midlands,100000.00,513,26.01,1,0,2023-07-27
+491,Bluebell Green,8,36,Bolton,North West,70500.00,170,30.55,1,0,2019-03-28
+492,"Hillcrest Gardens Phase 1, Peterborough",5,23,Peterborough,East of England,56500.00,769,35.16,0,0,2019-04-08
+493,"Quarry Meadows Phase 2, Warrington",6,20,Warrington,North West,92500.00,616,5.37,0,0,2016-04-13
+494,Hillcrest Gardens West,9,27,Nottingham,East Midlands,75500.00,283,1.52,0,1,2018-07-20
+495,"Vicarage Fields, Northampton",6,14,West Northamptonshire,East Midlands,96000.00,354,29.95,0,0,2016-11-13
+496,Brickworks Court,7,35,Peterborough,East of England,19500.00,229,17.46,1,0,2019-07-05
+497,Cedar Mews South,2,37,Milton Keynes,South East,18500.00,553,28.67,1,0,2022-04-22
+498,Quarry Place Phase 2,5,40,Milton Keynes,South East,42000.00,537,27.36,0,0,2015-03-18
+499,Vicarage Court West,3,18,Hackney,London,69500.00,663,32.10,0,0,2019-11-12
+500,"Brickworks Meadows Phase 2, Bristol",9,20,Bristol,South West,97500.00,455,24.79,0,0,2022-02-09

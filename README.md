@@ -13,10 +13,15 @@ Requires SQL Server 2019+ (Developer or Express edition is fine) and SSMS.
 | Step | Script | Notes |
 |---|---|---|
 | 1 | `00_setup/01_create_database.sql` | Open in SSMS, F5. Drops and recreates `HousingDelivery`. |
-| 2 | `00_setup/02_insert_data.sql` | 16 MB. SSMS can struggle to open it, so run it from a terminal instead: `sqlcmd -S localhost -E -i 00_setup\02_insert_data.sql` (use `-U sa -P ...` for SQL login). This takes 1–3 minutes. |
+| 2 | `00_setup/02_import_csv.sql` | Loads the 8 CSV files in `00_setup/data/` with BULK INSERT. Copy that folder to a path the SQL Server service can read (e.g. `C:\SQLCourse\data\`), set `@DataPath` at the top of the script, F5. Under a minute. |
 | 3 | `00_setup/03_verify.sql` | Should show Applications = 60,000 and FundingLines ≈ 179k, plus the counts of each planted edge case. |
 
-To reset the data at any time, re-run steps 1–2. `generate_data.py` (Python 3, fixed seed) regenerates an identical step 2.
+To reset the data at any time, re-run steps 1–2.
+
+CSV conventions: header row; empty field = NULL; `<EMPTY>` = empty string `''` (converted on import).
+`generate_data.py` (Python 3, fixed seed) can regenerate the same data as a plain INSERT script (`02_insert_data.sql`) if BULK INSERT isn't an option, e.g. no file access on the server.
+
+If BULK INSERT says "Operating system error 5 (Access is denied)", the SQL Server service account can't read the folder: move it to `C:\SQLCourse\data\` or grant read access.
 
 ## 2. Course path
 Teach a lesson by running it one example at a time (highlight a query and press F5).
