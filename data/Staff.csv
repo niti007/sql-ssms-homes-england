@@ -1,0 +1,61 @@
+StaffID,FirstName,LastName,JobTitle,ManagerID,HireDate,Salary,Office,Directorate
+1,Amir,Booth,Chief Executive,,2018-06-08,210000.00,Newcastle,Executive Office
+2,Sophie,Young,"Executive Director, Delivery",1,2018-10-05,125000.00,Manchester,Delivery
+3,Poppy,Nash,"Executive Director, Strategy",1,2017-08-25,130000.00,Manchester,Strategy
+4,Owen,Cunningham,"Executive Director, Finance",1,2018-06-06,125000.00,Warrington,Finance
+5,Sharon,Lambert,"Executive Director, Land and Assets",1,2017-01-04,130000.00,Birmingham,Land and Assets
+6,Leon,Barrett,Head of Delivery,2,2020-09-22,85000.00,Newcastle,Delivery
+7,Roy,Brown,Head of Strategy,3,2021-01-14,85000.00,Leeds,Strategy
+8,Ruby,Jones,Head of Finance,4,2018-10-31,85000.00,Manchester,Finance
+9,Neil,Burke,Head of Technology,5,2018-01-28,85000.00,Manchester,Technology
+10,Sally,Wheeler,Head of Land and Assets,2,2017-12-23,90000.00,Leeds,Land and Assets
+11,Natalie,Abbott,Head of Corporate Services,3,2018-09-15,90000.00,Leeds,Corporate Services
+12,Leon,Young,Head of Delivery,4,2020-04-02,82000.00,Newcastle,Delivery
+13,Lily,Lawson,Head of Strategy,5,2020-10-15,90000.00,Birmingham,Strategy
+14,Una,Webb,Head of Finance,2,2017-12-14,90000.00,London,Finance
+15,Megan,Slater,Head of Technology,3,2020-07-20,85000.00,Newcastle,Technology
+16,Wendy,White,Housing Delivery Officer,6,2021-08-20,38000.00,Leeds,Delivery
+17,Victoria,Dawson,Grants Analyst,7,2020-08-26,42000.00,Warrington,Strategy
+18,Gemma,Mason,Land Surveyor,8,2019-10-26,34000.00,Nottingham,Finance
+19,Reece,Powell,Programme Officer,9,2021-03-07,46000.00,Manchester,Technology
+20,Keith,Fenton,Finance Analyst,10,2020-08-27,46000.00,Warrington,Land and Assets
+21,Tom,Khan,Data Analyst,11,2021-06-15,38000.00,Bristol,Corporate Services
+22,Lucy,Bailey,Housing Delivery Officer,12,2025-04-02,52000.00,Birmingham,Delivery
+23,Lola,Butler,Grants Analyst,13,2024-03-18,38000.00,Newcastle,Strategy
+24,Priya,Wallace,Land Surveyor,14,2024-08-29,46000.00,Manchester,Finance
+25,Linda,Clarke,Programme Officer,15,2024-04-28,52000.00,Nottingham,Technology
+26,Tanya,Fisher,Finance Analyst,6,2022-02-09,42000.00,Nottingham,Land and Assets
+27,Harry,Lawrence,Data Analyst,7,2019-11-14,42000.00,Leeds,Corporate Services
+28,Harriet,Harris,Housing Delivery Officer,8,2022-08-02,42000.00,London,Delivery
+29,Dean,Elliott,Grants Analyst,9,2023-04-18,38000.00,Bristol,Strategy
+30,Ava,Kelly,Land Surveyor,10,2023-07-28,42000.00,Newcastle,Finance
+31,Luke,Kelly,Programme Officer,11,2019-09-13,52000.00,Birmingham,Technology
+32,Justin,Wood,Finance Analyst,12,2019-03-22,46000.00,Manchester,Land and Assets
+33,Abigail,Henderson,Data Analyst,13,2022-05-08,46000.00,Manchester,Corporate Services
+34,Morgan,Wheeler,Housing Delivery Officer,14,2025-02-14,46000.00,Birmingham,Delivery
+35,Faisal,Fraser,Grants Analyst,15,2023-11-21,46000.00,Nottingham,Strategy
+36,Justin,Harrison,Land Surveyor,6,2023-07-15,34000.00,Bristol,Finance
+37,Daisy,Ross,Programme Officer,7,2024-12-27,46000.00,Warrington,Technology
+38,Pauline,Phillips,Finance Analyst,8,2019-04-22,46000.00,London,Land and Assets
+39,Daniel,Lowe,Data Analyst,9,2021-01-14,46000.00,Warrington,Corporate Services
+40,Joyce,Hardy,Housing Delivery Officer,10,2021-05-16,42000.00,Nottingham,Delivery
+41,Jane,Williams,Grants Analyst,11,2023-04-02,42000.00,Leeds,Strategy
+42,Gillian,Begum,Land Surveyor,12,2024-04-10,46000.00,Warrington,Finance
+43,Anthony,Hayes,Programme Officer,13,2021-07-07,52000.00,London,Technology
+44,Terry,Archer,Finance Analyst,14,2021-10-09,34000.00,Birmingham,Land and Assets
+45,Ravi,Chapman,Data Analyst,15,2021-09-04,34000.00,Bristol,Corporate Services
+46,Russell,Bradley,Housing Delivery Officer,6,2025-04-29,46000.00,Birmingham,Delivery
+47,Scott,Foster,Grants Analyst,7,2023-02-19,46000.00,Bristol,Strategy
+48,Poppy,Wheeler,Land Surveyor,8,2020-04-14,58000.00,Bristol,Finance
+49,Chris,Price,Programme Officer,9,2019-04-16,42000.00,Leeds,Technology
+50,Sally,Hughes,Finance Analyst,10,2023-06-13,58000.00,Birmingham,Land and Assets
+51,Pauline,Taylor,Data Analyst,11,2021-09-21,38000.00,London,Corporate Services
+52,Samuel,Reid,Housing Delivery Officer,12,2020-05-10,42000.00,Warrington,Delivery
+53,Molly,King,Grants Analyst,13,2023-02-26,42000.00,London,Strategy
+54,Robert,Hart,Land Surveyor,14,2019-02-21,52000.00,Manchester,Finance
+55,Chris,Knight,Programme Officer,15,2023-01-23,46000.00,Nottingham,Technology
+56,Lewis,Cox,Finance Analyst,6,2024-11-07,38000.00,Leeds,Land and Assets
+57,Victoria,Palmer,Data Analyst,7,2024-06-03,58000.00,Nottingham,Corporate Services
+58,Yasmin,Watson,Housing Delivery Officer,8,2022-01-04,46000.00,Newcastle,Delivery
+59,Zachary,Bennett,Grants Analyst,9,2022-02-16,42000.00,Nottingham,Strategy
+60,Tanya,Lowe,Land Surveyor,10,2025-05-23,42000.00,Manchester,Finance

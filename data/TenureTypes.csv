@@ -1,0 +1,13 @@
+TenureTypeID,TenureName,Description
+1,Social Rent,Homes let at social rent levels by registered providers
+2,Affordable Rent,Rent up to 80% of local market rent
+3,London Affordable Rent,Capped rent benchmarks for Greater London
+4,Shared Ownership,"Part buy, part rent with a registered provider"
+5,First Homes,Discounted market sale for first-time buyers
+6,Rent to Buy,Discounted rent while saving a deposit
+7,Discounted Market Sale,Homes sold below market value
+8,Market Sale,Open market homes delivered alongside affordable
+9,Build to Rent,Purpose-built private rented homes
+10,Specialist Supported,Supported housing for people with specific needs
+11,Older Persons,Housing designed for older residents
+12,Self/Custom Build,
